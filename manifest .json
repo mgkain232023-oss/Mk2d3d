@@ -4,8 +4,8 @@
   "display": "standalone",
   "name": "Mk2d/3d",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Mk2d3d/"
   "short_name": "Mk2d/3d",
-  "start_url": "/",
+  "start_url": "/Mk2d3d/"
   "theme_color": "#ffffff"
 }
