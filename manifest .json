@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mk2d/3d",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mk2d/3d",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
